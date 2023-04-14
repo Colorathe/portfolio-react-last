@@ -23,7 +23,7 @@ Dillinger uses a number of open source projects to work properly:
 
 If you want to clone this repository and run the project on your local machine, follow these steps:
 
-1. Clone this repository: git clone https://github.com/your-username/your-repository.git
+1. Clone this repository: git clone https://github.com/Colorathe/portfolio-react-last.git
 2. Install dependencies: npm install
 3. Run the project in development mode: npm start
 4. Open http://localhost:3000 in your browser to see the site.
