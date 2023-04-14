@@ -1,7 +1,7 @@
 export default [
   {
     title: "Error 404 Page",
-    imgUrl: "src/assets/error404-page.png",
+    imgUrl: "../assets/error404-page.png",
     stack: ["HTML", "CSS"],
     link: "https://error404-page-colorathe.netlify.app/",
   },
