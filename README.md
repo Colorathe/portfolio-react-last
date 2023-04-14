@@ -2,7 +2,7 @@
 
 This is my personal portfolio, designed and developed using the technologies of Tailwind and React. Here you can find information about me, my work experience, personal projects, technical skills, and other relevant details.
 
-<img src="" alt="Foto del proyecto">
+<img src="https://github.com/Colorathe/portfolio-react-last/blob/master/src/assets/Screenshot_1.png?raw=true" alt="Foto del proyecto">
 
 ## Features
 
