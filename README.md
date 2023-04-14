@@ -17,8 +17,7 @@ Dillinger uses a number of open source projects to work properly:
 - [Tailwind](https://tailwindcss.com/)- for site styling and design.
 - [React](https://react.dev/) - for component building and data handling.
 - [Vite](https://vitejs.dev/) - for initial project configuration and development environment management.
-- [GitHub Pages] - for free and accessible site hosting.
-
+- [GitHub Pages](https://colorathe.github.io/portfolio-react-last/) - for free and accessible site hosting.
 
 ## Installation and Usage
 
